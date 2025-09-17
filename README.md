@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,7 +49,7 @@
     <div class="container">
         <h1>mahalakshmi A</h1>
         <p><strong>Email:</strong> mahapsycho420@gmail.com | <strong>Phone:</strong> +91 6379376135 </p>
-        <p><strong>LinkedIn:</strong> <a href="#">linkedin.com/in/Priyadarsini B</a></p>
+        <p><strong>LinkedIn:</strong> <a href="#">linkedin.com/in/mahalakshmi A</a></p>
 
         <div class="section">
             <h2>Career Objective</h2>
@@ -94,3 +93,5 @@
     </div>
 </body>
 </html>
+                
+                
